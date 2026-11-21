@@ -39,6 +39,3 @@ Proposal/
 │   ├── moveNoButton.js
 │   └── hearts.js
 ```
-## License
-
-MIT License
