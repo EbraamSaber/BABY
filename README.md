@@ -17,11 +17,6 @@ It includes playful animations: moving "No" button, heart emojis, and floating p
 - Tenor embed for GIFs (or your own Ghibli images)
 - Fully client-side, no backend required
 
-## Setup / Usage
-
-1. Clone the repo:
-```bash
-git clone https://github.com/Sama-ndari/Proposal.git
 ````
 
 2. Open `index.html` in your browser.
