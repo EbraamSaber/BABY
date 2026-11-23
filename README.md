@@ -5,17 +5,17 @@ It includes playful animations: moving "No" button, heart emojis, and floating p
 
 ## Features
 
-- Single-page app with multiple interactive screens
-- "No" button moves away on hover for playful interaction
-- Hearts animation and floating petals on the final screen
-- Fully responsive design (mobile-friendly)
-- Replace GIFs with custom Studio Ghibli portraits generated from your photos
+- Single-page app with multiple interactive screens.
+- "No" button moves away on hover for playful interaction.
+- Hearts animation and floating petals on the final screen.
+- Fully responsive design (mobile-friendly).
+- Replace GIFs with custom Studio Ghibli portraits generated from your photos.
 
 ## Tech Stack
 
-- HTML, CSS, JavaScript
-- Tenor embed for GIFs (or your own Ghibli images)
-- Fully client-side, no backend required
+- HTML, CSS, JavaScript.
+- Tenor embed for GIFs (or your own Ghibli images).
+- Fully client-side, no backend required.
 
 ````
 
